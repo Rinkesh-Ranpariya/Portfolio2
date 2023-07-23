@@ -259,7 +259,7 @@ const projects = {
     {
       id: "0",
       name: "Keep Calm and Carry On",
-      url: "https://github.com/harikanani/Keep-Calm-and-Carry-On.github.io",
+      url: "",
       description:
         "This platform enables users to practice Augmented Reality meditation, play stress burster games, track task completion and engage in motivational exercises to cope with stress and anxiety at work.  ",
       languages: [
@@ -283,7 +283,7 @@ const projects = {
       links: [
         {
           name: "Github",
-          url: "https://github.com/harikanani/Keep-Calm-and-Carry-On.github.io",
+          url: "",
           iconifyClass: "ri:github-fill",
         },
         {
@@ -355,7 +355,7 @@ const projects = {
       links: [
         {
           name: "Github",
-          url: "https://github.com/harikanani/Adoptisity",
+          url: "",
           iconifyClass: "ri:github-fill",
         },
         {
