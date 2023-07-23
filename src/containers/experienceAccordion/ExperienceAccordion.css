@@ -1,0 +1,22 @@
+.experience {
+  margin: 100px 0;
+}
+
+.experiences-header {
+  font-size: 40px;
+  line-height: 1.1;
+  font-family: "Google Sans Regular";
+  text-align: center;
+}
+
+@media (max-width: 1380px) {
+  .experiences-header {
+    font-size: 35px;
+  }
+}
+
+@media (max-width: 768px) {
+  .experiences-header {
+    font-size: 30px;
+  }
+}
